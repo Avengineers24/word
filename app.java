@@ -16,3 +16,6 @@ home
 alone
 at 
 night
+ok
+i am 
+geting tired
