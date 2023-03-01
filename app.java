@@ -16,4 +16,7 @@ home
 alone
 at 
 night
+ok
+i am
+getting tired
 but i hope to be re-energised soonesttttttt
