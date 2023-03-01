@@ -6,3 +6,5 @@ in
 Albion
 ayo
 obi
+manager
+receptionist
